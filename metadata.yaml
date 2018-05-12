@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2602
     wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45970#L--me-enchant-e---Annette-et-Sylvie---Volume-1
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-06-14'
 gutenberg_type: Text
